@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dfe3a433.css",
+    "main.js": "/static/js/main.f5b49b53.js",
+    "static/js/787.4b66fa5a.chunk.js": "/static/js/787.4b66fa5a.chunk.js",
+    "static/media/logo_white_transparent.png": "/static/media/logo_white_transparent.9bac520bfeb9cc9ae7c6.png",
+    "static/media/logo_black_transparent.png": "/static/media/logo_black_transparent.4a8e3a60a22eb44097e9.png",
+    "static/media/UnicaOne-Regular.ttf": "/static/media/UnicaOne-Regular.9ac22d6db0b0b23d2d63.ttf",
+    "index.html": "/index.html",
+    "main.dfe3a433.css.map": "/static/css/main.dfe3a433.css.map",
+    "main.f5b49b53.js.map": "/static/js/main.f5b49b53.js.map",
+    "787.4b66fa5a.chunk.js.map": "/static/js/787.4b66fa5a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfe3a433.css",
+    "static/js/main.f5b49b53.js"
+  ]
+}
